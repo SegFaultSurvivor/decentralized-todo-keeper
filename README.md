@@ -1,23 +1,32 @@
-# `dkeeper`
+# ✅ Decentralized To-Do Keeper 📝  
 
-Welcome to your new `dkeeper` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+## Demo  
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+### 📸 Project Screenshot  
+<img width="1280" alt="Screenshot" src="https://github.com/yourusername/decentralized-todo/blob/main/public/images/homepage.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/yourusername/decentralized-todo/blob/main/public/images/add-task.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/yourusername/decentralized-todo/blob/main/public/images/task-list.png">  
 
-To learn more before you start working with `dkeeper`, see the following documentation available online:
+### 🎥 Watch the Demo Video  
+[To-Do Keeper Walkthrough Video](https://github.com/yourusername/decentralized-todo/blob/main/public/demo/todo-demo.mp4)  
 
-- [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
-- [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
-- [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/motoko/main/motoko)
-- [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/motoko/main/language-manual)
+---  
 
-If you want to start working on your project right away, you might want to try the following commands:
+## Highlights  
 
-```bash
-cd dkeeper/
-dfx help
-dfx canister --help
-```
+- 🌟 **Tech Stack**: React, Motoko, Internet Computer (ICP)  
+- 🛡️ **Decentralized Storage** – Tasks stored securely on ICP  
+- 📜 **Smart Contracts in Motoko** – Immutable and transparent task management  
+- 🔄 **Real-time Updates** – Tasks update instantly across devices  
+- ✅ **Mark Tasks as Completed** – Persistent task tracking  
+
+---  
+
+### Start Local Development  
+
+#### 📦 Install Dependencies  
+```shell
+npm install
 
 ## Running the project locally
 
