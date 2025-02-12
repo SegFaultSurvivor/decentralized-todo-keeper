@@ -3,12 +3,10 @@
 ## Demo  
 
 ### 📸 Project Screenshot  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/decentralized-todo/blob/main/public/images/homepage.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/decentralized-todo/blob/main/public/images/add-task.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/decentralized-todo/blob/main/public/images/task-list.png">  
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/decentralized-todo-keeper/blob/353a5ce2b4c8eee119f2e6a7920281b3f27c38d8/src/dkeeper_frontend/public/dkeeperimg.png">  
 
 ### 🎥 Watch the Demo Video  
-[To-Do Keeper Walkthrough Video](https://github.com/yourusername/decentralized-todo/blob/main/public/demo/todo-demo.mp4)  
+[To-Do Keeper Walkthrough Video](https://github.com/SegFaultSurvivor/decentralized-todo-keeper/blob/353a5ce2b4c8eee119f2e6a7920281b3f27c38d8/src/dkeeper_frontend/public/dkeeper.mp4)  
 
 ---  
 
